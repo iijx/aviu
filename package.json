@@ -1,0 +1,25 @@
+{
+  "name": "aviu",
+  "version": "1.0.0",
+  "description": "audio·video·image·utils",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iijx/aviu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iijx/aviu/issues"
+  },
+  "homepage": "https://github.com/iijx/aviu#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "figlet": "^1.3.0",
+    "inquirer": "^7.0.4",
+    "shelljs": "^0.8.3"
+  }
+}
